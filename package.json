@@ -1,0 +1,14 @@
+{
+  "name": "tag-checker",
+  "version": "1.0.0",
+  "description": "Check that all the tags in a given piece of text (a paragraph) are correctly nested.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "author": "GN",
+  "license": "ISC"
+}
